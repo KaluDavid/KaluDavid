@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Kalu David
-#### I am Frontend Web developer
+#### I'm a Frontend Web developer
 ![I am Frontend Web developer](https://pbs.twimg.com/profile_images/1730183153745022976/_mtjrh5F_400x400.jpg)
 
-A passionate Frontend Web Developer, with expertise in HTML, CSS, and JavaScript. Committed to crafting intuitive designs and optimizing website performance for captivating online experiences.
-
+I'm a passionate Frontend Web Developer, with expertise in HTML, CSS, and JavaScript. I'm Committed to crafting intuitive designs and optimizing website performance for captivating online experiences.
+<br>
 Let's collaborate and build something amazing together!
 
 Skills: HTML || CSS || JavaScript

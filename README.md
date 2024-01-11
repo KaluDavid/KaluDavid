@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Kalu David
 #### I'm a Frontend Web developer
-![I am Frontend Web developer]
-![IMG_le892b](https://github.com/KaluDavid/KaluDavid/assets/102557749/806e3486-3829-4e20-8158-abf2271576fc)
+
+![IMG_le892b](https://github.com/KaluDavid/KaluDavid/assets/102557749/a82fc89e-58dd-440b-b37b-570db2057962)
 
 
 

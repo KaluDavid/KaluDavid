@@ -11,10 +11,10 @@ Let's collaborate and build something amazing together!
 
 Skills: HTML || CSS || JavaScript
 
-- 🔭 I’m currently working on a paid contract 
+- 🔭 I’m currently freelancing
 - 🌱 I’m currently learning JavaScript 
-- 🤔 I’m looking for help with getting an Internship. 
-- 💬 Ask me about Tech related stuffs 💻 
+- 🤔 I’m looking for help with getting an Internship and job. 
+- 💬 Ask me about Tech related kinds of stuff 💻 
 - 📫 How to reach me: kaludavidinyang@gmail.com 
 - 😄 Pronouns: He/him 
 - ⚡ Fun fact: I love music 🎶🎧 

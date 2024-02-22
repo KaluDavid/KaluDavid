@@ -6,12 +6,12 @@
 
 
 I'm a passionate Web Developer, with expertise in HTML, CSS, TailwindCSS and JavaScript. I'm Committed to crafting intuitive designs and optimizing website performance for captivating online experiences.
-<br> <br>
+<br> 
 Let's collaborate and build something amazing together!
 
-Skills: Responsive Web Design, Communication, Problem-Solving etc.
-<br><br>
-Tech Stack:  HTML || CSS || TailwindCSS || JavaScript
+Skills: - Responsive Web Design, - Communication, - Problem-Solving etc.
+<br><br><br>
+Tech Stack:  - HTML || - CSS || - TailwindCSS || - JavaScript
 
 
 - 🔭 I’m currently freelancing

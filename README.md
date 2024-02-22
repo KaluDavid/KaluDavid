@@ -1,20 +1,22 @@
 ### Hi there 👋, my name is Kalu David
-#### I'm a Frontend Web developer
+#### I'm a Software Web Developer [Frontend]
 
 ![IMG_le892b](https://github.com/KaluDavid/KaluDavid/assets/102557749/a82fc89e-58dd-440b-b37b-570db2057962)
 
 
 
-I'm a passionate Frontend Web Developer, with expertise in HTML, CSS, and JavaScript. I'm Committed to crafting intuitive designs and optimizing website performance for captivating online experiences.
+I'm a passionate Web Developer, with expertise in HTML, CSS, TailwindCSS and JavaScript. I'm Committed to crafting intuitive designs and optimizing website performance for captivating online experiences.
 <br>
 Let's collaborate and build something amazing together!
 
-Skills: HTML || CSS || JavaScript
+Skills: Responsive Web Design, Communication, Problem Solving etc.
+Tech Stack:  HTML || CSS || TailwindCSS || JavaScript
+
 
 - 🔭 I’m currently freelancing
-- 🌱 I’m currently learning JavaScript 
-- 🤔 I’m looking for help with getting an Internship and job. 
-- 💬 Ask me about Tech related kinds of stuff 💻 
+- 🌱 I’m currently learning JavaScript and TailwindCSS
+- 🤔 I’m looking for help with getting an Internship and job role.  
+- 💬 Ask me about Tech related kind of stuff 💻 
 - 📫 How to reach me: kaludavidinyang@gmail.com 
 - 😄 Pronouns: He/him 
 - ⚡ Fun fact: I love music 🎶🎧 

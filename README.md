@@ -2,10 +2,10 @@
 #### I'm a Software Web Developer [Frontend]
 
 I'm a passionate Web Developer, with expertise in HTML, CSS, TailwindCSS and JavaScript. I'm Committed to crafting intuitive designs and optimizing website performance for captivating online experiences.
-<br> 
+<be> <br>
 Let's collaborate and build something amazing together!
-<br><be>
-
+<br><br>
+<be> <br>
 
 Skills: 
 - Responsive Web Design
@@ -18,7 +18,7 @@ Tech Stack:
 - JavaScript
 - TailwindCSS
 <br><br>
-
+<be> <br>
 
 
 - 🔭 I’m currently freelancing

@@ -21,9 +21,9 @@ Tech Stack:
 <be> <br>
 
 
-- 🔭 I’m currently freelancing
-- 🌱 I’m currently learning JavaScript and TailwindCSS
-- 🤔 I’m looking for help with getting an Internship and job role.  
+- 🤓 I’m currently freelancing
+- 📕 I’m currently learning JavaScript and TailwindCSS
+- 🥺 I’m looking for help with getting an Internship and job role.  
 - 💬 Ask me about Tech related kind of stuff 💻 
 - 📫 How to reach me: kaludavidinyang@gmail.com 
 - 😄 Pronouns: He/him 

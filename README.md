@@ -5,7 +5,7 @@ I'm a passionate Web Developer, with expertise in HTML, CSS, TailwindCSS and Jav
 <be> <br>
 Let's collaborate and build something amazing together!
 <br><br>
-<be> <br>
+<be><br>
 
 Skills: 
 - Responsive Web Design
@@ -18,12 +18,12 @@ Tech Stack:
 - JavaScript
 - TailwindCSS
 <br><br>
-<be> <br>
+<be><br>
 
 
 - 🤓 I’m currently freelancing
 - 📕 I’m currently learning JavaScript and TailwindCSS
-- 🥺 I’m looking for help with getting an Internship and job role.  
+- 💻 Open for Internship and job roles.  
 - 💬 Ask me about Tech related kind of stuff 💻 
 - 📫 How to reach me: kaludavidinyang@gmail.com 
 - 😄 Pronouns: He/him 

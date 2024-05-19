@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Kalu David
 #### I'm a Software Web Developer [Frontend]
 
-I'm a passionate Web Developer, with expertise in HTML, CSS, TailwindCSS and JavaScript. I'm Committed to crafting intuitive designs and optimizing website performance for captivating online experiences.
+I'm a passionate Web Developer, with expertise in HTML, Vanilla  CSS, TailwindCSS, JavaScript and React.js. I'm Committed to crafting intuitive designs and optimizing website performance for captivating online experiences.
 <be> <br>
 Let's collaborate and build something amazing together!
 <br><br>
@@ -17,12 +17,13 @@ Tech Stack:
 - CSS
 - JavaScript
 - TailwindCSS
+- ReactJS
 <br><br>
 <be><br>
 
 
 - 🤓 I’m currently freelancing
-- 📕 I’m currently learning JavaScript and TailwindCSS
+- 📕 I’m currently learning React
 - 💻 Open for Internship and job roles.  
 - 💬 Ask me about Tech related kind of stuff 💻 
 - 📫 How to reach me: kaludavidinyang@gmail.com 

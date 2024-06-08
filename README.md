@@ -17,6 +17,7 @@ Tech Stack:
 - CSS
 - JavaScript
 - TailwindCSS
+- Sass
 - ReactJS
 <br><br>
 <be><br>

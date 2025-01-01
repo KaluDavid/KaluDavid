@@ -19,6 +19,7 @@ Tech Stack:
 - TailwindCSS
 - Sass
 - ReactJS
+- Supabase
 <br><br>
 <be><br>
 

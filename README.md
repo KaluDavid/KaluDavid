@@ -1,8 +1,22 @@
 ### Hi there 👋, my name is Kalu David
 #### I'm a Software Web Developer [Frontend]
 
-I'm a passionate Web Developer, with expertise in HTML, Vanilla  CSS, TailwindCSS, JavaScript and React.js. I'm Committed to crafting intuitive designs and optimizing website performance for captivating online experiences.
-<be> <br>
+Experienced and dedicated to creating responsive and user-friendly web applications. With expertise in HTML, CSS, JavaScript, React, Tailwind CSS and Supabase. 
+I thrive on collaborating with diverse teams to bring ideas to life and ensure that the final product meets user needs and business objectives.
+My technical toolkit includes;
+- ReactJS for interactive user interfaces.
+- Tailwind CSS for streamlined styling
+- Firebase/Supabase for backend services.
+- Eraser.io for creating and displaying flowcharts.
+- White broad paper for wireframing.
+- Version control using Git and GitHub.
+- Documentation of group discussions and planned execution using google docs
+- Team and collaborative workspace using Slack.
+- Google meets for team's discussions and meetings.
+All these enables me to maintain efficient workflows and manage projects effectively.
+I take pride in implementing designs and actively participating in brainstorming sessions to enhance features based on user feedback. Additionally, my experience in user research allows me to better understand user needs and improve the overall user experience
+
+<br> <br>
 Let's collaborate and build something amazing together!
 <br><br>
 <be><br>
@@ -10,7 +24,12 @@ Let's collaborate and build something amazing together!
 Skills: 
 - Responsive Web Design
 - Communication
-- Problem-solving etc.
+- Problem-solving
+- Wire framing
+- Flowchart
+- Field and research methodology
+- Team leadership
+
 
 Tech Stack:
 - HTML
@@ -25,7 +44,6 @@ Tech Stack:
 
 
 - 🤓 I’m currently freelancing
-- 📕 I’m currently learning React
 - 💻 Open for Internship and job roles.  
 - 💬 Ask me about Tech related kind of stuff 💻 
 - 📫 How to reach me: kaludavidinyang@gmail.com 
@@ -33,5 +51,4 @@ Tech Stack:
 - ⚡ Fun fact: I love music 🎶🎧 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KaluDavid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kalu-david-a2771723a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/kalu.dave.505)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/thedavidkalu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21891643)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kalu-david.vercel.app/)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KaluDavid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kalu-david-a2771723a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/thedavidkalu)  

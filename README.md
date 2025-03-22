@@ -11,11 +11,11 @@ My technical toolkit includes;
 - Eraser.io for creating and displaying flowcharts.
 - White broad paper for wireframing.
 - Version control using Git and GitHub.
-- Documentation of group discussions and planned execution using google docs
+- Documentation of group discussions and planned execution using Google Docs
 - Team and collaborative workspace using Slack.
-- Google meets for team's discussions and meetings.
+- Google meets for team discussions and meetings.
 
-All these enables me to maintain efficient workflows and manage projects effectively.
+All these enable me to maintain efficient workflows and manage projects effectively.
 I take pride in implementing designs and actively participating in brainstorming sessions to enhance features based on user feedback. Additionally, my experience in user research allows me to better understand user needs and improve the overall user experience
 <br>
 Let's collaborate and build something amazing together!
@@ -26,7 +26,7 @@ Skills:
 - Responsive Web Design
 - Communication
 - Problem-solving
-- Wire framing
+- Wireframing
 - Flowchart
 - Field and research methodology
 - Team leadership
@@ -40,6 +40,8 @@ Tech Stack:
 - Sass
 - ReactJS
 - Supabase
+- Typescript
+- FramerMotion
 <br><br>
 <be><br>
 

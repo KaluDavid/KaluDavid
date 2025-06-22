@@ -8,14 +8,16 @@ I have a keen focus on building clean, responsive, and accessible web applicatio
 Additionally, when it comes to collaboration, I work well in teams, especially in fast-paced environments. I believe good communication and shared vision are just as important as writing clean code. Over time, I’ve learned how to balance independent work with collaboration, always keeping the end goal in sight: delivering value that works.
 
 <br>
-My technical toolkit includes;
+My technical toolkit includes:
+
+
 - ReactJS for interactive user interfaces.
 - Tailwind CSS for streamlined styling
 - Firebase/Supabase for backend services.
 - Eraser.io for creating and displaying flowcharts.
 - White broad paper for wireframing.
 - Version control using Git and GitHub.
-- Documentation of group discussions and planned execution using Google Docs
+- Documentation of group discussions and planned execution using Google Docs.
 - Team and collaborative workspace using Slack.
 - Google Meet or Zoom for team discussions and meetings.
 
@@ -51,8 +53,8 @@ Tech Stack:
 
 
 - 🤓 I’m currently freelancing
-- 💻 Open for Internship and job roles.  
-- 💬 Ask me about Tech related kind of stuff 💻 
+- 💻 Open for contract and job roles.  
+- 💬 Ask me about tech-related kind of stuff 💻 
 - 📫 How to reach me: kaludavidinyang@gmail.com 
 - 😄 Pronouns: He/him 
 - ⚡ Fun fact: I love music 🎶🎧 

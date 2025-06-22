@@ -58,7 +58,7 @@ Tech Stack:
 - ⚡ Fun fact: I love music 🎶🎧 
 
 <br>
-### Follow me here:
-[https://github.com/KaluDavid](<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='10'>)
-![<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='10'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kalu-david-a2771723a//)
-<a href="https://twitter.com/thedavidkalu" /><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='10'>
+Follow me here:
+<br>
+<a href="https://www.linkedin.com/in/kalu-david-a2771723a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+<a href="https://twitter.com/thedavidkalu" target="_blank" target="_blank"><img alt="Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">

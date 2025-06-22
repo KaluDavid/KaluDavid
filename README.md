@@ -1,8 +1,12 @@
 ### Hi there 👋, my name is Kalu David
-#### I'm a Software Web Developer [Frontend]
+#### I'm a Frontend Engineer
 
-Experienced and dedicated to creating responsive and user-friendly web applications. With expertise in HTML, CSS, JavaScript, React, Tailwind CSS and Supabase. 
-I thrive on collaborating with diverse teams to bring ideas to life and ensure that the final product meets user needs and business objectives.
+I help businesses grow online by turning ideas into clean, responsive websites that are easy to use and look great on any device, and as well as ensure that the final product meets user needs and business objectives
+
+I have a keen focus on building clean, responsive, and accessible web applications. I work primarily with React, TypeScript, and Tailwind CSS, creating digital experiences that are not just functional but also intuitive and visually engaging.
+
+Additionally, when it comes to collaboration, I work well in teams, especially in fast-paced environments. I believe good communication and shared vision are just as important as writing clean code. Over time, I’ve learned how to balance independent work with collaboration, always keeping the end goal in sight: delivering value that works.
+
 <br>
 My technical toolkit includes;
 - ReactJS for interactive user interfaces.
@@ -13,7 +17,7 @@ My technical toolkit includes;
 - Version control using Git and GitHub.
 - Documentation of group discussions and planned execution using Google Docs
 - Team and collaborative workspace using Slack.
-- Google meets for team discussions and meetings.
+- Google Meet or Zoom for team discussions and meetings.
 
 All these enable me to maintain efficient workflows and manage projects effectively.
 I take pride in implementing designs and actively participating in brainstorming sessions to enhance features based on user feedback. Additionally, my experience in user research allows me to better understand user needs and improve the overall user experience
@@ -33,15 +37,15 @@ Skills:
 
 
 Tech Stack:
+- ReactJS
+- Typescript
+- TailwindCSS
+- Supabase
+- JavaScript
+- FramerMotion
 - HTML
 - CSS
-- JavaScript
-- TailwindCSS
 - Sass
-- ReactJS
-- Supabase
-- Typescript
-- FramerMotion
 <br><br>
 <be><br>
 
@@ -54,4 +58,6 @@ Tech Stack:
 - ⚡ Fun fact: I love music 🎶🎧 
 
 <br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KaluDavid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kalu-david-a2771723a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/thedavidkalu)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KaluDavid)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kalu-david-a2771723a//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/thedavidkalu)  

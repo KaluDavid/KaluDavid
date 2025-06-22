@@ -59,6 +59,6 @@ Tech Stack:
 
 <br>
 ### Follow me here:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/KaluDavid)]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/https://www.linkedin.com/in/kalu-david-a2771723a//)]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>(https://twitter.com/thedavidkalu)] 
+[https://github.com/KaluDavid](<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='10'>)
+![<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='10'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kalu-david-a2771723a//)
+<a href="https://twitter.com/thedavidkalu" /><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='10'>
